@@ -26,7 +26,9 @@ This section describes how to install the plugin and get it working.
 
 = Do I need a special key? =
 
-Yes, you should talk with the where2ski.net admin and ask for a key. The process is in development so that a more automated
+Not exactly. 
+The plugin will work if you choose to support the site (via a link).
+If not then yes, you need a special "activation" key. You can talk with the where2ski.net admin and ask for a key. The process is in development so that a more automated
 option will exist in future releases.
 
 == Changelog ==
