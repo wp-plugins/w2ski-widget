@@ -4,7 +4,7 @@
  * Plugin Name:       Where2Ski widget
  * Plugin URI:        http://where2ski.net
  * Description:       Provides a widget to use from the Where2Ski.net website.
- * Version:           0.1.2
+ * Version:           0.1.3
  * Author:            SiteUP&trade;
  * Author URI:        http://www.siteup.org.uk
  * License:           GPL-2.0+
